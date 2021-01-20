@@ -10,10 +10,10 @@
     "main": "lib/server.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CybeX/DOSC.git"
+        "url": "https://github.com/CybeX/DSOC.git"
     },
     "bugs": {
-        "url": "https://github.com/CybeX/DOSC/issues"
+        "url": "https://github.com/CybeX/DSOC/issues"
     },
     "keywords": [
         "dsoc"
